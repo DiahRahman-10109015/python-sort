@@ -1,6 +1,6 @@
 # python-sort
 Pada praktikum kali ini membahas mengenai materi Bubble Sort dan Selection Sort 
-**PERCOBAAN**
+**PERCOBAAN PRAKTIKUM**
 **BUBBLE SORT**
 => Saya mempelajari bahwa Bubble Sort menggunakan metode pengurutan data dengan cara membandingkan data dan menukar elemen-elemen adjacent secara berulang-ulang sampai seluruh elemen terurut.
 => Kelebihan dari metode ini yaitu implementasinya yang sederhana dan mudah dipahami.
